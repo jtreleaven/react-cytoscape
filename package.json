@@ -1,0 +1,27 @@
+{
+  "name": "react-cytoscape",
+  "version": "1.0.0",
+  "description": "React wrapper around cytoscapejs library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jtreleaven/react-cytoscape.git"
+  },
+  "keywords": [
+    "cytoscape",
+    "react",
+    "node",
+    "graph",
+    "directed",
+    "dag"
+  ],
+  "author": "Jeff Treleaven <jtreleaven262@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtreleaven/react-cytoscape/issues"
+  },
+  "homepage": "https://github.com/jtreleaven/react-cytoscape#readme"
+}
